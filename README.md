@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # tadeeb-js-docker-mongo-app
 A simple website to change User information showcasing concepts of docker
 
